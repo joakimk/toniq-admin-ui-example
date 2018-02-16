@@ -1,3 +1,9 @@
+This is an example made for the discussion in <https://github.com/joakimk/toniq/pull/47>.
+
+It's not functional as an admin UI in any way.
+
+## Create Elm app readme below
+
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
 
 Below you will find some information on how to perform basic tasks.  
