@@ -2,6 +2,11 @@ This is an example made for the discussion in <https://github.com/joakimk/toniq/
 
 It's not functional as an admin UI in any way.
 
+Running:
+
+    elm-app start
+
+
 ## Create Elm app readme below
 
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
